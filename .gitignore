@@ -4,4 +4,7 @@
 !*.h
 !*.java
 !*.py
+!*.rb
+!Gemfile
+!Gemfile.lock
 !.gitignore
